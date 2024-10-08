@@ -45,6 +45,7 @@ header{
     align-items: center;
     flex-direction: column;
     margin-top: 20px;
+    margin-bottom: 200px;
 }
 
 .main-content{
@@ -109,9 +110,7 @@ footer{
     background: #000000;
     color: #fff;
     text-align: center;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
+    padding: 5px;
     width: 100%;
-    border-top: 4px solid #f4f4f4;
+    border-top: 4px solid #f4f4f4;;
 }
